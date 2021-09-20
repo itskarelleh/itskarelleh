@@ -3,7 +3,7 @@ Hi there! My name is Karelle Hofler. I am a full stack developer based in Ewing,
 
 <br />
 
-👩🏿‍💻 Currently use: React.js, Node.js, MongoDB, Firebase
+👩🏿‍💻 Currently use: React.js, Node.js, MongoDB, Firebase, Next.js, Tailwind.css, Material-UI/MUI
 <br>
 📧 How to reach me: karellehofler@gmail.com, https://www.linkedin.com/in/karelle-hofler/
 
