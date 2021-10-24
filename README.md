@@ -1,7 +1,10 @@
-### Cats, Coffee and Coding
-Hi there! My name is Karelle Hofler. I am a full stack developer based in Ewing, New Jersey. I'm currently searching for my first job as a Full Stack Developer. I'm also open to collaborating with other developers. If you want to network or want me to collaborate with you, please send me a messsage on LinkedIn or send me an email. Thank you!
+<h1>Hi there!</h1>
+My name is Karelle Hofler. I am a full stack developer based in Ewing, New Jersey currently searching for my first job. I'm also open to collaborating with other developers. If you want to network or want me to collaborate with you, please send me a messsage on LinkedIn or send me an email. Thank you!
 
-<br />
+<h2>More About Me: </h2>
+Languages: Java, JavaScript
+<br>
+Human Languages: English(Fluent), French(Novice)
 
 👩🏿‍💻 Currently use: React.js, Node.js, MongoDB, Firebase, Next.js, Tailwind.css, Material-UI/MUI
 <br>
