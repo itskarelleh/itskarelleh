@@ -1,17 +1,11 @@
 <h1>Hi there!</h1>
-My name is Karelle Hofler. I am a full stack developer based in Ewing, New Jersey currently searching for my first job. I'm also open to collaborating with other developers. If you want to network or want me to collaborate with you, please send me a messsage on LinkedIn or send me an email. Thank you!
+I am a customer-focused, dedicated web developer who puts 100% effort into the process from start to finish rather it's a simple landing page or a dynamic web app. Though I primarily use JavaScript frameworks like React.js for the majority of my development projects, I am very confident when learning new languages and frameworks that may be a better fit for the project.
 
 <h2>More About Me: </h2>
-Languages: Java, JavaScript
-<br>
-Human Languages: English(Fluent), French(Novice)
-
+- ⚡ Fun fact: Before learning to code, I used to be a designer and still use some of my design skills if needed.
 👩🏿‍💻 Currently use: React.js, Node.js, MongoDB, Firebase, Next.js, Tailwind.css, Material-UI/MUI
 <br>
-📧 How to reach me: karellehofler@gmail.com, https://www.linkedin.com/in/karelle-hofler/
-
-
-
+-📫 How to reach me: karellehofler@gmail.com, https://www.linkedin.com/in/karelle-hofler/
 <!--
 **karellehofler/karellehofler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
