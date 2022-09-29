@@ -4,7 +4,7 @@ I am a customer-focused, dedicated web developer who puts 100% effort into the p
 <h2>More About Me: </h2>
 <ul>
 <li> 🔭 I’m currently working on ... Notes Markdown Web App</li>
-<li> 🌱 I’m currently learning more Data Structures & Algorithms</li>
+<li> 🌱 I’m currently learning more about Data Structures & Algorithms</li>
 <li> 👯 I’m looking to collaborate on ... honestly I'm open to anything. I'm always looking for a challenge</li>
 <li> 💬 Ask me about my current projects</li>
 <li>📫 How to reach me: karellehofler@gmail.com OR me@karellehofler.com</li>
