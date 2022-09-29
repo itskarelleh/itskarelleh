@@ -2,10 +2,14 @@
 I am a customer-focused, dedicated web developer who puts 100% effort into the process from start to finish rather it's a simple landing page or a dynamic web app. Though I primarily use JavaScript frameworks like React.js for the majority of my development projects, I am very confident when learning new languages and frameworks that may be a better fit for the project.
 
 <h2>More About Me: </h2>
-- ⚡ Fun fact: Before learning to code, I used to be a designer and still use some of my design skills if needed.
-👩🏿‍💻 Currently use: React.js, Node.js, MongoDB, Firebase, Next.js, Tailwind.css, Material-UI/MUI
-<br>
--📫 How to reach me: karellehofler@gmail.com, https://www.linkedin.com/in/karelle-hofler/
+<ul>
+<li> 🔭 I’m currently working on ... Notes Markdown Web App</li>
+<li> 🌱 I’m currently learning more Data Structures & Algorithms</li>
+<li> 👯 I’m looking to collaborate on ... honestly I'm open to anything. I'm always looking for a challenge</li>
+<li> 💬 Ask me about my current projects</li>
+<li>📫 How to reach me: karellehofler@gmail.com OR me@karellehofler.com</li>
+<li>⚡ Fun fact: I studied and freelanced as a designer before transitioning to web development</li>
+</ul>
 <!--
 **karellehofler/karellehofler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
