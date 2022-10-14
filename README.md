@@ -1,5 +1,5 @@
 <h1>Hi there!</h1>
-I am a customer-focused, dedicated web developer who puts 100% effort into the process from start to finish rather it's a simple landing page or a dynamic web app. Though I primarily use JavaScript frameworks like React.js for the majority of my development projects, I am very confident when learning new languages and frameworks that may be a better fit for the project.
+I am a dedicated, empathetic web developer who puts 100% effort into the process from start to finish rather it's a simple landing page or a dynamic web app. Though I primarily use JavaScript frameworks like React.js for the majority of my development projects, I am very confident when learning new languages and frameworks that may be a better fit for the project.
 
 <h2>More About Me: </h2>
 <ul>
