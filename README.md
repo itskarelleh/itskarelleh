@@ -3,12 +3,12 @@ I am a dedicated, empathetic web developer who puts 100% effort into the process
 
 <h2>More About Me: </h2>
 <ul>
-<li> 🔭 I’m currently working on ... Notes Markdown Web App</li>
-<li> 🌱 I’m currently learning more about Data Structures & Algorithms</li>
+  <li> 🔭 I’m currently working on ... <a href="https://github.com/karellehofler/markdown-notes-app">Markdown Notes Web App</a></li>
+<li> 🌱 I’m currently learning more about Spring framework and Web3</li>
 <li> 👯 I’m looking to collaborate on ... honestly I'm open to anything. I'm always looking for a challenge</li>
-<li> 💬 Ask me about my current projects</li>
-<li>📫 How to reach me: karellehofler@gmail.com OR me@karellehofler.com</li>
+<li> 💬 Ask me ... about my current projects</li>
 <li>⚡ Fun fact: I studied and freelanced as a designer before transitioning to web development</li>
+  <li>📫 How to reach me: karellehofler@gmail.com OR me@karellehofler.com</li>
 </ul>
 <!--
 **karellehofler/karellehofler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
