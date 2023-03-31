@@ -1,10 +1,10 @@
-<h1>Hi there!</h1>
+<h1>Hello! ¡Hola! Bonjour!</h1>
 I am a dedicated, empathetic web developer who puts 100% effort into the process from start to finish rather it's a simple landing page or a dynamic web app. Though I primarily use JavaScript frameworks like React.js for the majority of my development projects, I am very confident when learning new languages and frameworks that may be a better fit for the project.
 
 <h2>More About Me: </h2>
 <ul>
   <li> 🔭 I’m currently working on ... File Storage Web App
-<li> 🌱 I’m currently learning more about Spring framework and Web3</li>
+<li> 🌱 I’m currently learning more about AI</li>
 <li> 👯 I’m looking to collaborate on ... honestly I'm open to anything. I'm always looking for a challenge</li>
 <li> 💬 Ask me ... about my current projects</li>
 <li>⚡ Fun fact: I studied and freelanced as a designer before transitioning to web development</li>
