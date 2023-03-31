@@ -3,7 +3,7 @@ I am a dedicated, empathetic web developer who puts 100% effort into the process
 
 <h2>More About Me: </h2>
 <ul>
-  <li> 🔭 I’m currently working on ... Cloud Storage Web App
+  <li> 🔭 I’m currently working on ... File Storage Web App
 <li> 🌱 I’m currently learning more about Spring framework and Web3</li>
 <li> 👯 I’m looking to collaborate on ... honestly I'm open to anything. I'm always looking for a challenge</li>
 <li> 💬 Ask me ... about my current projects</li>
