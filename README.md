@@ -1,3 +1,5 @@
+![linkedin-header-2023](https://user-images.githubusercontent.com/23417952/233487907-08c17fd5-d97c-4447-83f6-b4cec5a4d80b.png)
+
 <h1>Hello! ¡Hola! Bonjour!</h1>
 I am a dedicated, full stack developer based in New Jersey with a Bootcamp/self-taught background. I typically like to do my front-end projects using JavaScript frameworks like Next.js and backend-projects using Java frameworks like Spring Boot but I'm always open to learning new languages and frameworks.
 
