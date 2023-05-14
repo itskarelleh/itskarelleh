@@ -1,17 +1,13 @@
 ![linkedin-header-2023](https://user-images.githubusercontent.com/23417952/233487907-08c17fd5-d97c-4447-83f6-b4cec5a4d80b.png)
 
 <h1>Hello! ¡Hola! Bonjour!</h1>
-I am a dedicated, full stack developer based in New Jersey with a Bootcamp/self-taught background. I typically like to do my front-end projects using JavaScript frameworks like Next.js and backend-projects using Java frameworks like Spring Boot but I'm always open to learning new languages and frameworks.
 
-<h2>More About Me: </h2>
-<ul>
-  <li> 🔭 I’m currently working on ... File Storage Web App
-<li> 🌱 I’m currently learning more about AI</li>
-<li> 👯 I’m looking to collaborate on ... honestly I'm open to anything. I'm always looking for a challenge</li>
-<li> 💬 Ask me ... about my current projects</li>
-<li>⚡ Fun fact: I studied and freelanced as a designer before transitioning to web development</li>
-  <li>📫 How to reach me: karellehofler@gmail.com/li>
-</ul>
+
+Technical Skills: React.js, Spring Boot, Tailwind.css, Node.js, HTML/CSS, Java, MongoDB, Firebase
+Experience: Logo Designer, Student Tutor/Mentor, Woz U Software Development Program
+Skills: Problem-solving, communication, empathy, collaboration, project management
+Achievements: Built user-centered applications that improved user experiences and delivered measurable business outcomes.
+Goals: Build quality applications and supply a positive experience for clients and users. Enhance technical and people skills to supply the best possible outcomes for projects.
 <!--
 **karellehofler/karellehofler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
