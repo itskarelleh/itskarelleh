@@ -3,11 +3,11 @@
 <h1>Hello! ¡Hola! Bonjour!</h1>
 
 
-Technical Skills: React.js, Spring Boot, Tailwind.css, Node.js, HTML/CSS, Java, MongoDB, Firebase
-Experience: Logo Designer, Student Tutor/Mentor, Woz U Software Development Program
-Skills: Problem-solving, communication, empathy, collaboration, project management
-Achievements: Built user-centered applications that improved user experiences and delivered measurable business outcomes.
-Goals: Build quality applications and supply a positive experience for clients and users. Enhance technical and people skills to supply the best possible outcomes for projects.
+- Technical Skills: React.js, Spring Boot, Tailwind.css, Node.js, HTML/CSS, Java, MongoDB, Firebase
+- Experience: Logo Designer, Student Tutor/Mentor, Woz U Software Development Program
+- Skills: Problem-solving, communication, empathy, collaboration, project management
+- Achievements: Built user-centered applications that improved user experiences and delivered measurable business outcomes.
+- Goals: Build quality applications and supply a positive experience for clients and users. Enhance technical and people skills to supply the best possible outcomes for projects.
 <!--
 **karellehofler/karellehofler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
