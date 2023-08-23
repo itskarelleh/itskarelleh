@@ -6,12 +6,6 @@ Full Stack Engineer
 
 I am a Full Stack Engineer with a focus on frontend currently based in NJ. I had always been interested in software engineering and web development but decided to pursue it after being introduced to coding when I took a Web Design course in college. I gained most of my skills and knowledge about software engineering through BootCamp, tutorials, books, and just working on projects on my own.
 
-More about me unrelated to Tech: 
-- I am a Cat Mom a to a chatty patty Maine Coon mix
-- I currently help my mom with caretaking my older brother with autism
-- I create art in my spare time
-- I typically like games like Tomb Raider, Assassin's Creed, and Fallout
-
 I'm definitely open to meeting other devs and I'm open to collaborating too! If you would like to connect with me, feel free to message me on Twitter or LinkedIn
 
 
