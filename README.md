@@ -1,4 +1,4 @@
-<h1 align="center">Hello! ¡Hola! Bonjour! My name is Karelle Hofler</h1>
+<h1 align="center">Hello there! My name is Karelle Hofler</h1>
 <h3 align="center">Full Stack Engineer</h3>
 
 I am a Full Stack Engineer with a focus on frontend currently based in NJ. I had always been interested in software engineering and web development but decided to pursue it after being introduced to coding when I took a Web Design course in college. I gained most of my skills and knowledge about software engineering through BootCamp, tutorials, books, and just working on projects on my own.
