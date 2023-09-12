@@ -20,8 +20,6 @@ I'm definitely open to meeting other devs and I'm open to collaborating too! If 
 
 - 📄 Know about my experiences [https://linkedin.com/in/karelle-hofler](https://linkedin.com/in/karelle-hofler)
 
-- ⚡ Fun fact **I fell down the rabbit hole of software engineering and web development when I took a web design course in college**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/itskarelleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="itskarelleh" height="30" width="40" /></a>
