@@ -6,7 +6,7 @@ I am a Full Stack Dev with a focus on frontend currently based in NJ. I had alwa
 I'm definitely open to meeting other devs and I'm open to collaborating too! If you would like to connect with me, feel free to message me on Twitter or LinkedIn.
 
 # 💫 About Me:
-🔭 I’m currently working on Pet Diary Web App: Name TBA<br><br>👨‍💻 All of my projects are available at https://karellehofler.com/projects<br><br>📝 I regularly write articles on https://karellehofler.hashnode.com<br><br>💬 Ask me about React, Tailwind.css<br><br>📫 How to reach me karellehofler@gmail.com<br><br>📄 Know about my experiences https://linkedin.com/in/karelle-hofler
+🔭 I’m currently working on <a href="https://github.com/itskarelleh/animal-kingdom">Animal Kingdom Database</a><br><br>👨‍💻 All of my projects are available at https://karellehofler.com/projects<br><br>📝 I regularly write articles on https://karellehofler.hashnode.com<br><br>💬 Ask me about React, Tailwind.css<br><br>📫 How to reach me karellehofler@gmail.com<br><br>📄 Know about my experiences https://linkedin.com/in/karelle-hofler
 
 
 ## 🌐 Socials:
