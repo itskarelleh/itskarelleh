@@ -1,9 +1,9 @@
 <h1 align="center">Hello there! My name is Karelle Hofler</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-I am a Full Stack Dev with a focus on frontend currently based in NJ. I had always been interested in software engineering and web development but decided to pursue it after being introduced to coding when I took a Web Design course in college. I gained most of my skills and knowledge about software engineering through BootCamp, tutorials, books, and just working on projects on my own.
+I am a full-stack developer currently based in New Jersey. I had always been interested in software engineering and web development but decided to pursue it after being introduced to coding while taking a Web Design course in college. I gained most of my skills and knowledge about software engineering through BootCamp, tutorials, books, and just working on projects independently.
 
-I'm definitely open to meeting other devs and I'm open to collaborating too! If you would like to connect with me, feel free to message me on Twitter or LinkedIn.
+I'm open to meeting other developers, and I'm open to collaborating, too! If you'd like to connect with me, please message me on LinkedIn.
 
 # 💫 About Me:
 🔭 I’m currently working on <a href="https://github.com/itskarelleh/animal-kingdom">Animal Kingdom Database</a><br><br>👨‍💻 All of my projects are available at https://karellehofler.com/projects<br><br>📝 I regularly write articles on https://karellehofler.hashnode.com<br><br>💬 Ask me about React, Tailwind.css<br><br>📫 How to reach me karellehofler@gmail.com<br><br>📄 Know about my experiences https://linkedin.com/in/karelle-hofler
