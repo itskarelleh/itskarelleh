@@ -6,7 +6,7 @@ I am a full-stack developer currently based in New Jersey. I had always been int
 I'm open to meeting other developers, and I'm open to collaborating, too! If you'd like to connect with me, please message me on LinkedIn.
 
 # 💫 About Me:
-🔭 I’m currently working on <a href="https://alt-text-mage.vercel.app">Alt Text Mage</a><br><br>👨‍💻 All of my projects are available at https://karellehofler.com/projects<br><br>📝 I regularly write articles on https://karellehofler.hashnode.com<br><br>💬 Ask me about React, Tailwind.css<br><br>📫 How to reach me karellehofler@gmail.com<br><br>📄 Know about my experiences https://linkedin.com/in/karelle-hofler
+🔭 I’m currently working on <a href="https://alt-text-mage.com">Alt Text Mage</a><br><br>👨‍💻 All of my projects are available at https://karellehofler.com/projects<br><br>📝 I regularly write articles on https://karellehofler.hashnode.com<br><br>💬 Ask me about React, Tailwind.css<br><br>📫 How to reach me karellehofler@gmail.com<br><br>📄 Know about my experiences https://linkedin.com/in/karelle-hofler
 
 
 ## 🌐 Socials:
