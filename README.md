@@ -1,8 +1,8 @@
 <h1 align="center">Hello there! My name is Karelle Hofler</h1>
 
-I am a full-stack engineer currently based in New Jersey. I had always been interested in software engineering and web development but decided to pursue it after being introduced to coding while taking a Web Design course in college.
+I am a software engineer based in New Jersey.
 
-I prefer a user-centric approach to developing applications to ensure that each feature I implement is accessible, usable, and secure. 
+I prefer a user-centric approach to developing applications to ensure that each feature I implement is accessible, usable, and secure.
 
 I'm open to meeting other developers, and I'm open to collaborating, too! If you'd like to connect with me, please message me on LinkedIn.
 
