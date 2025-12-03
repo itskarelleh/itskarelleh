@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm Karelle Hofler 👋</h1>
+<h1 align="center">Hello there! I'm Karelle Hofler 💜</h1>
 
 Founder & software engineer based in New Jersey, passionate about building **human-centric apps** and experimenting with the intersection of **audio, color, and literature**.
 
@@ -33,6 +33,4 @@ I love creating meaningful digital experiences and exploring how technology can 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=karellehofler&icon=1&color=11)](https://visitcount.itsvg.in)
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H11PLOHE)
